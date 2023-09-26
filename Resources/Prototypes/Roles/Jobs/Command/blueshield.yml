@@ -1,26 +1,23 @@
 - type: job
-  id: Captain
-  name: job-name-captain
-  description: job-description-captain
+  id: BlueShield
+  name: job-name-blueshield
+  description: job-description-blueshield
   playTimeTracker: JobCaptain
   requirements:
     - !type:DepartmentTimeRequirement
       department: Engineering
-      time: 2700
+      time: 14400
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 9600
-    - !type:DepartmentTimeRequirement
-      department: Epistemics
       time: 14400
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 9600
+      time: 14400
     - !type:OverallPlaytimeRequirement
-      time: 50000
+      time: 25000
   weight: 20
-  startingGear: CaptainGear
-  icon: "Captain"
+  startingGear: BSGear
+  icon: "BlueShield"
   requireAdminNotify: true
   joinNotifyCrew: true
   whitelistRequired: true
@@ -36,7 +33,7 @@
       flatBonus: 0.025
 
 - type: startingGear
-  id: CaptainGear
+  id: BSGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCaptain
     back: ClothingBackpackCaptainFilled

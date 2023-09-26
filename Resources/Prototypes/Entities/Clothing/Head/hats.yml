@@ -26,6 +26,19 @@
 
 - type: entity
   parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBS
+  name: Берет офицера синего щита
+  description: Берет няньки для реально взрослых дядечек.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/beretBS.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/beretBS.rsi
+  - type: DropOnSlip
+    chance: 20
+
+- type: entity
+  parent: ClothingHeadBase
   id: ClothingHeadHatBeretRND
   name: scientific beret
   description: A beret for real scientists.

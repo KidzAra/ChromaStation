@@ -18,6 +18,7 @@
           overflowJobs:
             - Passenger
           availableJobs:
+            Captain: [ 1 , 1 ]
             Passenger: [ -1, -1 ]
             ChiefServiceSupervisor: [ 1, 1]
             Bartender: [ 1, 1 ]
