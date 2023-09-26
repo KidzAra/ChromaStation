@@ -36,14 +36,14 @@
   id: BSGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCaptain
-    back: ClothingBackpackCaptainFilled
+    back: ClothingBackpackSecurityFilled
     shoes: ClothingShoesColorBlack
-    head: ClothingHeadHatCaptain
+    head: ClothingHeadHatBeretBS
     eyes: ClothingEyesGlassesSunglasses
     gloves: ClothingHandsGlovesCaptain
     outerClothing: ClothingOuterArmorCaptainCarapace
     id: CaptainPDA
     ears: ClothingHeadsetAltCommand
   innerclothingskirt: ClothingUniformJumpskirtCaptain
-  satchel: ClothingBackpackSatchelCaptainFilled
-  duffelbag: ClothingBackpackDuffelCaptainFilled
+  satchel: ClothingBackpackSecurityFilled
+  duffelbag: ClothingBackpackSecurityFilled
