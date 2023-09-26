@@ -316,6 +316,17 @@
 
 - type: entity
   parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBS
+  name: комбинезон офицера штатного департаментов ЦентКома
+  description: A blue jumpsuit of Head of Security.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpsuit/hos_blue.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpsuit/hos_blue.rsi
+
+- type: entity
+  parent: ClothingUniformBase
   id: ClothingUniformJumpsuitHoSGrey
   name: head of security's grey jumpsuit
   description: A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
