@@ -1,6 +1,6 @@
 - type: species
   id: SlimePerson
-  name: species-name-slime
+  name: Слайм
   roundStart: true
   prototype: MobSlimePerson
   sprites: MobSlimeSprites

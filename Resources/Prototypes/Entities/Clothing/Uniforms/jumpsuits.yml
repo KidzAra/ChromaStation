@@ -318,7 +318,7 @@
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitBS
   name: комбинезон офицера штатного департаментов ЦентКома
-  description: A blue jumpsuit of Head of Security.
+  description: Зачем я на это подписался...
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/hos_blue.rsi

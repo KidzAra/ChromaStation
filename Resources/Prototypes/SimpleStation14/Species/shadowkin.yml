@@ -11,14 +11,13 @@
   naming: First
   maleFirstNames: names_shadowkin
   femaleFirstNames: names_shadowkin
-  minAge: 18
+  minAge: 16
   maxAge: 300
   youngAge: 20
   oldAge: 250
   sexes:
     - Male
     - Female
-    - Unsexed
 
 - type: speciesBaseSprites
   id: MobShadowkinSprites

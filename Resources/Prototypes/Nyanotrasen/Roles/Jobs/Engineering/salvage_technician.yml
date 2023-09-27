@@ -10,10 +10,10 @@
     - !type:DepartmentTimeRequirement
       department: Engineering
       time: 14400
-  supervisors: job-supervisors-ce
+  supervisors: job-supervisors-hop
   access:
   - Salvage
-  - Engineering
+  - Cargo
   - Maintenance
   - External
 

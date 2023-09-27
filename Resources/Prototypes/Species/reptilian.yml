@@ -1,6 +1,6 @@
 - type: species
   id: Reptilian
-  name: species-name-reptilian
+  name: Унатх
   roundStart: true
   prototype: MobReptilian
   sprites: MobReptilianSprites

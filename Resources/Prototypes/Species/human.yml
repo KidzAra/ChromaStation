@@ -1,6 +1,6 @@
 - type: species
   id: Human
-  name: species-name-human
+  name: Человек
   roundStart: true
   prototype: MobHuman
   sprites: MobHumanSprites
