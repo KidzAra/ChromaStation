@@ -20,7 +20,6 @@
   icon: "BlueShield"
   requireAdminNotify: true
   joinNotifyCrew: true
-  whitelistRequired: true
   supervisors: job-supervisors-centcom
   canBeAntag: true
   antagAdvantage: 14

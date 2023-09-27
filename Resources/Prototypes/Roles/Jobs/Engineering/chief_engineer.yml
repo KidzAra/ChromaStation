@@ -22,7 +22,6 @@
   supervisors: job-supervisors-cc
   canBeAntag: false
   antagAdvantage: 8
-  whitelistRequired: true
   access:
   - Maintenance
   - Engineering

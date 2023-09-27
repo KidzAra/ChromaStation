@@ -34,7 +34,6 @@
   - Janitor
   - Lawyer
   - Librarian
-  - MailCarrier
   - MartialArtist
   - MedicalIntern
   - Mime
@@ -43,8 +42,16 @@
   - Reporter
   - ServiceWorker
   - Zookeeper
-  - TechnicalAssistant
+
+
+- type: department
+  id: Cargo
+  description: department-Engineering-cargo
+  color: "#ba7233"
+  roles:
+  - SalvageTechnician
   - Quartermaster
+  - MailCarrier
 
 - type: department
   id: Engineering
@@ -54,7 +61,6 @@
   - AtmosphericTechnician
   - ChiefEngineer
   - StationEngineer
-  - SalvageTechnician
 
 - type: department
   id: Medical
@@ -92,12 +98,3 @@
   - Epistemologist
   - Chaplain
   - Cataloguer
-
-- type: department
-  id: Silicon
-  description: department-Silicon-description
-  color: "#8D9AAC"
-  roles:
-  - SAI
-  - Robot
-  - MedicalRobot

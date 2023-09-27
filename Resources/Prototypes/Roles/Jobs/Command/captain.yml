@@ -23,7 +23,6 @@
   icon: "Captain"
   requireAdminNotify: true
   joinNotifyCrew: true
-  whitelistRequired: true
   supervisors: job-supervisors-centcom
   canBeAntag: true
   antagAdvantage: 14
